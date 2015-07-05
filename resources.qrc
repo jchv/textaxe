@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon-16.png</file>
+        <file>icon-32.png</file>
+        <file>icon.ico</file>
+        <file>icon-48.png</file>
+        <file>icon-64.png</file>
+        <file>icon-96.png</file>
+        <file>icon-128.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>mona.ttf</file>
+        <file>VeraMoBd.ttf</file>
+        <file>VeraMoBI.ttf</file>
+        <file>VeraMoIt.ttf</file>
+        <file>VeraMono.ttf</file>
+    </qresource>
+</RCC>
